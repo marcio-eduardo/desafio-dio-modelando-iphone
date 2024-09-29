@@ -1,4 +1,4 @@
-package smartphone.generic;
+package iPhone.generic;
 
 public interface IReprodutorMusical {
     void tocar();

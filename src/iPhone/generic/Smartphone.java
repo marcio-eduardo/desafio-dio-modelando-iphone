@@ -1,4 +1,4 @@
-package smartphone.generic;
+package iPhone.generic;
 
 public class Smartphone implements IAparelhoTelefonico, INavegadorInternet, IReprodutorMusical {
     /**

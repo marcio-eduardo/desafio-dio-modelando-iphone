@@ -1,4 +1,4 @@
-package smartphone.generic;
+package iPhone.generic;
 
 public interface INavegadorInternet {
     void exibirPagina(String url);

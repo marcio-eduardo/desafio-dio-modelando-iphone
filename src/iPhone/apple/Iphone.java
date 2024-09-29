@@ -1,6 +1,6 @@
-package smartphone.apple;
+package iPhone.apple;
 
-import smartphone.generic.Smartphone;
+import iPhone.generic.Smartphone;
 
 public class Iphone extends Smartphone {
     /**

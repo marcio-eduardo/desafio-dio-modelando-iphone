@@ -1,6 +1,6 @@
-package smartphone;
+package iPhone;
 
-import smartphone.apple.Iphone;
+import iPhone.apple.Iphone;
 
 public class Main {
     public static void main(String[] args) {
